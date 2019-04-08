@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggingLib", "LoggingLib\LoggingLib.csproj", "{CC91A99E-4789-49A0-A408-5848A3AAC814}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggingLib", "LoggingLib.csproj", "{903DFC98-ABAA-4DC3-9BB7-7F72958D84BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CC91A99E-4789-49A0-A408-5848A3AAC814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC91A99E-4789-49A0-A408-5848A3AAC814}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC91A99E-4789-49A0-A408-5848A3AAC814}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC91A99E-4789-49A0-A408-5848A3AAC814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{903DFC98-ABAA-4DC3-9BB7-7F72958D84BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903DFC98-ABAA-4DC3-9BB7-7F72958D84BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903DFC98-ABAA-4DC3-9BB7-7F72958D84BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903DFC98-ABAA-4DC3-9BB7-7F72958D84BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D520C153-3069-435A-AF86-0BEB000ACB32}
+		SolutionGuid = {BB7C844E-5AED-4FAA-8EA1-8F8E3E0AC8AE}
 	EndGlobalSection
 EndGlobal
